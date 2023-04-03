@@ -20,7 +20,6 @@ func GetAllBookDB(book []models.Book) (allBook []models.Book, err error) {
 	}
 
 	allBook = append(allBook, book...)
-
 	return
 }
 
@@ -83,7 +82,6 @@ func UpdateBookDB(id int, book models.Book) (bookData models.Book, err error) {
 	}
 
 	bookData = book
-
 	return
 }
 

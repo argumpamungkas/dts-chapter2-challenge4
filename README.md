@@ -1,4 +1,4 @@
-# dts-chapter2-challenge4
+# dts-chapter2-challenge4 (Project 1)
 Rest API CRUD book with Gin gonic and Gorm PostgreSQL
 
 Output :
